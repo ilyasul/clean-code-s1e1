@@ -125,7 +125,7 @@ ul {
 }
 
 /* Completed */
-.item__name-completed{
+.item-done .item__name{
   text-decoration: line-through;
   color: #888;
 }
